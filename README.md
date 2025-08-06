@@ -35,7 +35,7 @@ Once your design is complete, export the file as:
  • Built with real-world mechanical design principles
 
 
-
+![Rotaryjoint](Rotaryjoint.jpg)
 
 # Design showcase
 
