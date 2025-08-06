@@ -31,4 +31,4 @@ Once your design is complete, export the file as:
  • Compatible with most 3D printers
  • Built with real-world mechanical design principles
 
-![Rotary](rotary.jpg)
+![Rotary](Rotary.jpg)
