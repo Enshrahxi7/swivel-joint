@@ -27,8 +27,13 @@ Once your design is complete, export the file as:
 
 # Why This Design is Useful
  • Easy to modify for specific mechanical needs
+ 
  • Suitable for students, engineers, and hobbyists
+ 
  • Compatible with most 3D printers
+ 
  • Built with real-world mechanical design principles
+ 
+# Design Showcase
 
 ![Rotary](Rotary.jpg)
